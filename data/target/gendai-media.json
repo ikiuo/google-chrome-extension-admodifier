@@ -1,0 +1,7 @@
+{
+  "host": ["gendai.media"],
+  "tagid": ["\\w{2}_pc_"],
+  "query": [
+    "[id^=pc_ad]"
+  ]
+}

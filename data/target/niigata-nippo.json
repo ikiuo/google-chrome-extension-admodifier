@@ -1,0 +1,6 @@
+{
+  "host": ["niigata-nippo.co.jp"],
+  "query": [
+    "[id^=niigata_pc_]"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "host": ["hochi.news"],
+  "tagid": [
+    "logly-lift-\\d+"
+  ],
+  "query": [
+	".ad"
+  ]
+}

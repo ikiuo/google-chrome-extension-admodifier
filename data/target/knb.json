@@ -1,0 +1,7 @@
+{
+  "host": ["knb.ne.jp"],
+  "query": [
+	"[class*=c-banner-adsense]",
+	"[data-as-slot-id]"
+  ]
+}

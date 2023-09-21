@@ -1,0 +1,6 @@
+{
+  "host": ["web-ace.jp"],
+  "query": [
+    "[class^=ad_rect_]"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "query": [
+    "[class*=__torimochi_rr_recommend_advertisement_]"
+  ]
+}

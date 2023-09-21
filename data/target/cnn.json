@@ -1,0 +1,8 @@
+{
+  "host": ["cnn.co.jp"],
+  "query": [
+    ".ad-txt",
+    ".bnr-rect",
+    "[class*=ad-large]"
+  ]
+}

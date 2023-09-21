@@ -1,0 +1,8 @@
+{
+  "host": ["www.nicovideo.jp"],
+  "query": [
+    ".AuroraVisionContainer-ad",
+    ".PcUniTop350x240MiddleEastAdContainer",
+    ".TopPage-billboardAdSection"
+  ]
+}

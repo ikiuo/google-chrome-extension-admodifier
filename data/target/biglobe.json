@@ -1,0 +1,6 @@
+{
+  "domain": ["biglobe.ne.jp"],
+  "query": [
+    "[class*=-ad-square-box]"
+  ]
+}

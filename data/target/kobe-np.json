@@ -1,0 +1,9 @@
+{
+  "host": ["kobe-np.co.jp"],
+  "query": [
+    ".prAreaWrapper",
+    ".native.active",
+    "LI.active>DIV[id^=ad]",
+    "[id^=knpc-]"
+  ]
+}

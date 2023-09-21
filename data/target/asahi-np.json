@@ -1,0 +1,7 @@
+{
+  "host": ["asahi.com"],
+  "query": [
+	".AdMod",
+    ".OutbrainAdMod"
+  ]
+}

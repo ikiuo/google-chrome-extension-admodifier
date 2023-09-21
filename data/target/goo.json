@@ -1,0 +1,6 @@
+{
+  "domain": ["goo.ne.jp"],
+  "query": [
+	"[id^=gooad-]"
+  ]
+}

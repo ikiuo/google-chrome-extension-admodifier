@@ -1,0 +1,7 @@
+{
+  "host": ["373news.com"],
+  "query": [
+	"[id^=pc_]",
+    "[id^=JP_MS_pc_]"
+  ]
+}

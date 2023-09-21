@@ -1,0 +1,6 @@
+{
+  "host": ["weathernews.jp"],
+  "query": [
+	"[id^=browsi_adWrapper_]"
+  ]
+}

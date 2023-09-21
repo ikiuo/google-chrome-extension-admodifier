@@ -1,0 +1,6 @@
+{
+  "host": ["comic-walker.com"],
+  "query": [
+    "[id*=_banner]"
+  ]
+}

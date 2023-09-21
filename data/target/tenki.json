@@ -1,0 +1,7 @@
+{
+  "host": ["tenki.jp"],
+  "query": [
+    "[id^=\"tenki-ad-\"]",
+    "[id^=\"browsi_ad_\"]"
+  ]
+}

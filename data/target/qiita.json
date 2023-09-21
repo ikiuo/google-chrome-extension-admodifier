@@ -1,0 +1,10 @@
+{
+  "host": ["qiita.com"],
+  "hidden": true,
+  "query": [
+    "#personalized-feed-side-ad",
+    "#trend-side-ad",
+    "[id^=\"dfp-slot-article-after-body-\"]",
+    "[id^=\"dfp-slot-article-sidebar-\"]"
+  ]
+}

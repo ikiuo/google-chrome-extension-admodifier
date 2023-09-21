@@ -1,0 +1,7 @@
+{
+  "host": ["jprime.jp"],
+  "query": [
+    ".ad-billboard",
+    ".ad-rectangle"
+  ]
+}

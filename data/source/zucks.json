@@ -1,0 +1,9 @@
+{
+  "domain": [
+    "zucks.net",
+    "zucks.net.zimg.jp"
+  ],
+  "query": [
+	"[id*=\"zucksad\"]"
+  ]
+}

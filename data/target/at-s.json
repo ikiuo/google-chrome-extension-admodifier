@@ -1,0 +1,7 @@
+{
+  "host": ["at-s.com"],
+  "query": [
+    "[id^=pc_]",
+    "[id^=adslot]"
+  ]
+}

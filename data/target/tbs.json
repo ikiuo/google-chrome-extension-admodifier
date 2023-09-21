@@ -1,0 +1,9 @@
+{
+  "hosts": [
+    ["tbs.co.jp", "www", "newsdig"]
+  ],
+  "query": [
+    ".insert_ads",
+    "[data-ub-carousel]"
+  ]
+}

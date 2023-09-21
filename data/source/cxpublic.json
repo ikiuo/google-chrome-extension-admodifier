@@ -1,0 +1,10 @@
+{
+  "domain": [
+    "cxpubic.com"
+  ],
+  "query": [
+	"[id*=\"cxWidget_\"]",
+	"[id*=\"cx_recommend_\"]",
+	"[id*=\"insertAdSpaceBeforeThis_\"]"
+  ]
+}

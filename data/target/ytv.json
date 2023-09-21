@@ -1,0 +1,6 @@
+{
+  "host": ["ytv.co.jp"],
+  "query": [
+    "[id^=JP_YTV_pc_]"
+  ]
+}

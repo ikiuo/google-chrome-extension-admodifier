@@ -1,0 +1,6 @@
+{
+  "host": ["kochinews.co.jp"],
+  "query": [
+    ".ad-box"
+  ]
+}

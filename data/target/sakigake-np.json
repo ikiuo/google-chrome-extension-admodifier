@@ -1,0 +1,6 @@
+{
+  "host": ["sakigake.jp"],
+  "query": [
+    "[id^=sakigake_pc_]"
+  ]
+}

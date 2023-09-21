@@ -1,0 +1,6 @@
+{
+  "host": ["nikkei.com"],
+  "query": [
+    ".dcmads"
+  ]
+}

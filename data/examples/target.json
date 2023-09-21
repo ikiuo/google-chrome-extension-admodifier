@@ -1,0 +1,15 @@
+{
+  "domain": ["name1", "name2", "..."],
+  "hosts": [
+    ["domain1", "name1", "name2", "..."],
+    ["domain2", "name1", "name2", "..."],
+    ["...", "..."]
+  ],
+  "host": ["name1", "name2", "..."],
+  "url": ["regex1", "regex2", "..."],
+
+  "tagid": ["regex1", "regex2", "..."],
+  "query": ["selector1", "selector2", "..."],
+  "enable": true,
+  "hidden": false,
+}

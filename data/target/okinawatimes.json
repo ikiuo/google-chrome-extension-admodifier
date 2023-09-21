@@ -1,0 +1,6 @@
+{
+  "host": ["okinawatimes.co.jp"],
+  "query": [
+    "[id^=pc_]"
+  ]
+}

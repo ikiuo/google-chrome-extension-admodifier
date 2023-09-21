@@ -1,0 +1,6 @@
+{
+  "host": ["mainichi.jp"],
+  "query": [
+    "[id^=ad-pc-]"
+  ]
+}

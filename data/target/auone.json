@@ -1,0 +1,7 @@
+{
+  "domain": ["auone.jp"],
+  "query": [
+    ".rectangle-ad",
+    "[class^=side__ad]"
+  ]
+}

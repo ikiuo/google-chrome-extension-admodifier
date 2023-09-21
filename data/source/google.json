@@ -1,0 +1,20 @@
+{
+  "domain": [
+    "doubleclick.net",
+    "googleadservices.com",
+    "googlesyndication.com",
+    "imasdk.googleapis.com"
+  ],
+  "query": [
+    ".GoogleActiveViewElement",
+    ".adsbygoogle",
+    ".gadsOverlay",
+    "#adGoogle",
+    "[id*=\"GDN_ad_\"]",
+    "[id^=\"div-gpt-ad-\"]",
+    "[id*=\"google_ads_\"]",
+    "[data-adsbygoogle-status]",
+    "[data-adv-id]",
+    "[data-google-query-id]"
+  ]
+}

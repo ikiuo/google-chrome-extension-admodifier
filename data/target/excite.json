@@ -1,0 +1,9 @@
+{
+  "host": ["excite.co.jp"],
+  "query": [
+    "[id^=browsi_ad]",
+    "[id^=exad_]",
+    "[id^=gpt_pc_]",
+    "[class^=ad-aside-]"
+  ]
+}

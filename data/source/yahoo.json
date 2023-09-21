@@ -1,0 +1,14 @@
+{
+  "domain": [
+    "pm.yahoo.co.jp",
+    "yads.yjtag.yahoo.co.jp",
+    "yads.c.yimg.jp"
+  ],
+  "query": [
+    "[id*=\"yads_ad_\"]",
+    "[id*=\"yads_dummy_parent_\"]",
+    "[id*=\"ydn_ad_\"]",
+    "[id*=\"ydn-ad-\"]",
+    "[class*=yahooad]"
+  ]
+}

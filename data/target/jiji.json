@@ -1,0 +1,7 @@
+{
+  "host": ["jiji.com"],
+  "query": [
+    ".ArticleAdSide",
+    ".ArticleInnerAD"
+  ]
+}

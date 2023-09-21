@@ -1,0 +1,8 @@
+{
+  "hosts": [
+    ["ksb.co.jp", "www", "news"]
+  ],
+  "query": [
+    ".md-ad"
+  ]
+}

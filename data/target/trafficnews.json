@@ -1,0 +1,7 @@
+{
+  "host": ["trafficnews.jp"],
+  "query": [
+    ".pc-side-ad-mrg",
+    "[id^=browsi_adContainer_]"
+  ]
+}

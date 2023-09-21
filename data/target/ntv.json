@@ -1,0 +1,9 @@
+{
+  "hosts": [
+    ["ntv.co.jp", "www", "news"]
+  ],
+  "query": [
+    "[class*=publicity]"
+  ],
+  "hidden": true
+}

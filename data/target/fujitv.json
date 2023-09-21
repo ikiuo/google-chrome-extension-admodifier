@@ -1,0 +1,7 @@
+{
+  "host": ["fujitv.co.jp"],
+  "query": [
+    "#cx_gbheader_sb",
+    "#cx_commonRectangle_rectangle"
+  ]
+}

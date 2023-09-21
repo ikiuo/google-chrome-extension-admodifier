@@ -1,0 +1,8 @@
+{
+  "host": ["nikkan-spa.jp"],
+  "query": [
+    ".ad-widget",
+    ".post-div.Horizontal.pickup",
+    "[id^=SPA_PC_]"
+  ]
+}

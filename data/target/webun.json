@@ -1,0 +1,6 @@
+{
+  "host": ["webun.jp"],
+  "query": [
+	"[id^=JP_wbn_pc_]"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "host": ["nagasaki-np.co.jp"],
+  "query": [
+    ".ad_area",
+    ".article_ad",
+    "#club47banner"
+  ]
+}

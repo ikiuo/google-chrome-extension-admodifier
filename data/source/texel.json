@@ -1,0 +1,6 @@
+{
+  "query": [
+    "[class*=_taxel_ad_]",
+    "[class*=_taxel_sponsored]"
+  ]
+}

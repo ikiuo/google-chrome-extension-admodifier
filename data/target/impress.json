@@ -1,0 +1,6 @@
+{
+  "domain": ["watch.impress.co.jp"],
+  "query": [
+    "[id^=gpt-div-ipc]"
+  ]
+}

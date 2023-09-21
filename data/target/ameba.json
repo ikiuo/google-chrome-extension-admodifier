@@ -1,0 +1,10 @@
+{
+  "domain": ["ameba.jp", "ameblo.jp"],
+  "query": [
+	".ad-btf",
+	"[class^=skin-entryAd]",
+	"[class^=subAdBanner]",
+	"[class*=_Article_Ad_]",
+    "[data-slot=\"injected\"]"
+  ]
+}

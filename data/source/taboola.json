@@ -1,0 +1,8 @@
+{
+  "domain": [
+    "-comment-out-.taboola.com"
+  ],
+  "query": [
+    "[data-item-syndicated=true]"
+  ]
+}

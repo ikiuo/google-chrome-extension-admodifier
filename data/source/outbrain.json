@@ -1,0 +1,8 @@
+{
+  "domain": [
+    "outbrain.com"
+  ],
+  "query": [
+	"[id*=\"outbrain_widget_\"]"
+  ]
+}

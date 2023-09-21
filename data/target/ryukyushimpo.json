@@ -1,0 +1,7 @@
+{
+  "host": ["ryukyushimpo.jp"],
+  "query": [
+    "[id^=pc_]",
+    "[id^=jp_rku_pc_]"
+  ]
+}

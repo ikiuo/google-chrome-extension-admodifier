@@ -1,0 +1,7 @@
+{
+  "host": ["aab-tv.co.jp"],
+  "query": [
+    "[class*=uz-aab-tv]",
+    "[class*=uz-2-aab-tv]"
+  ]
+}

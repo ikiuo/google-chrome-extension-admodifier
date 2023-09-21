@@ -1,0 +1,9 @@
+{
+  "hosts": [
+    ["yahoo.co.jp", "www", "news", "weather"]
+  ],
+  "query": [
+    ".adWrap",
+    ".ad-frame-fix"
+  ]
+}

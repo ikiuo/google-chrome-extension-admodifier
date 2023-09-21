@@ -1,0 +1,7 @@
+{
+  "host": ["mbc.co.jp"],
+  "query": [
+    "[id^=JP_mbc_pc_]",
+    "[data-ub-carousel]"
+  ]
+}

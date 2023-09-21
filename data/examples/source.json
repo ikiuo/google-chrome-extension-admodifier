@@ -1,0 +1,6 @@
+{
+  "domain": ["name1", "name2", "..."],
+  "urlFilter": ["filter1", "filter2", "..."],
+  "regexFilter": ["regex1", "regex2", "..."],
+  "querySelector": ["query1", "query2", "..."]
+}

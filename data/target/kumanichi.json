@@ -1,0 +1,6 @@
+{
+  "host": ["kumanichi.com"],
+  "query": [
+    "[id^=kumanichi_pc_]"
+  ]
+}

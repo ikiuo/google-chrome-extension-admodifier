@@ -1,0 +1,11 @@
+{
+  "hosts": [
+    ["nifty.com", "www", "news"]
+  ],
+  "query": [
+	".sidebar_nofixed",
+	"#sidebar_head_banner",
+	"#subBnr",
+	"[class^=Container_btmBnr_]"
+  ]
+}

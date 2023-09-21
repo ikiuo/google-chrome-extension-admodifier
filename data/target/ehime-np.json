@@ -1,0 +1,7 @@
+{
+  "host": ["ehime-np.co.jp"],
+  "query": [
+    "#ad_super",
+    "[id^=ehime_pc_]"
+  ]
+}

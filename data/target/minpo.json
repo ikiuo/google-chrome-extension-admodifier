@@ -1,0 +1,11 @@
+{
+  "host": ["minpo.jp"],
+  "query": [
+    "[id^=JP_fmp_]"
+  ],
+  "insert": [{
+    "query": "#content",
+    "position": "beforebegin",
+    "height": "2.2em"
+  }]
+}

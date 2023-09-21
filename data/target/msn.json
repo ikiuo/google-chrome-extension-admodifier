@@ -1,0 +1,7 @@
+{
+  "host": ["msn.com"],
+  "query": [
+    ".display-ads-container"
+  ],
+  "shadow": true
+}

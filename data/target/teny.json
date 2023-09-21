@@ -1,0 +1,15 @@
+{
+  "host": ["teny.co.jp"],
+  "query": [
+    "aside.asideArea>iframe"
+  ],
+  "insert": [{
+    "query": "main",
+    "position": "afterbegin",
+    "height": "2.5em"
+  },{
+    "query": "aside",
+    "position": "afterbegin",
+    "height": "2.5em"
+  }]
+}

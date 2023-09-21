@@ -1,0 +1,8 @@
+{
+  "host": ["nordot.app"],
+  "query": [
+    "#ad",
+    "[id^=ad_]",
+    "[id*=-ads-]"
+  ]
+}

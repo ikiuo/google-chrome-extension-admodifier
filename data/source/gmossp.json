@@ -1,0 +1,9 @@
+{
+  "domain": [
+    "gmossp-sp.jp"
+  ],
+  "query": [
+	".gmo_outer_wrapper",
+	".gmossp_ad_frame"
+  ]
+}

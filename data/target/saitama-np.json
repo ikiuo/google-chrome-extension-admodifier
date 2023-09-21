@@ -1,0 +1,8 @@
+{
+  "host": ["saitama-np.co.jp"],
+  "query": [
+	"[id^=JP_PC_SNP_]",
+	"[id^=JP_SP_SNP_]",
+	"[data-cptid]"
+  ]
+}

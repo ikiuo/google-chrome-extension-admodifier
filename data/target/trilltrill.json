@@ -1,0 +1,6 @@
+{
+  "host": ["trilltrill.jp"],
+  "query": [
+    "[id^=browsi_adContainer_]"
+  ]
+}

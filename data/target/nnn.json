@@ -1,0 +1,6 @@
+{
+  "host": ["nnn.co.jp"],
+  "query": [
+    "[class*=ad-nnn_]"
+  ]
+}

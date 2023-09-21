@@ -1,0 +1,7 @@
+{
+  "host": ["bloomberg.co.jp"],
+  "query": [
+    ".ad",
+    "[data-ad-placeholder=\"Advertisement\"]"
+  ]
+}

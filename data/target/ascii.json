@@ -1,0 +1,6 @@
+{
+  "host": ["ascii.jp"],
+  "query": [
+    "[class^=ad_]"
+  ]
+}

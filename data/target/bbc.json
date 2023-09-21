@@ -1,0 +1,6 @@
+{
+  "host": ["bbc.com"],
+  "query": [
+    ".dotcom-ad"
+  ]
+}

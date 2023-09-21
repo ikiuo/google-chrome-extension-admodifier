@@ -1,0 +1,7 @@
+{
+  "host": ["stv.jp"],
+  "query": [
+    ".bannerArea",
+    "[src=\"https://www2.stv.jp/nnn/assets/header_iframe.html\"]"
+  ]
+}

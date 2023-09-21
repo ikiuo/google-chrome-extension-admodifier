@@ -1,0 +1,8 @@
+{
+  "host": ["bunshun.jp"],
+  "query": [
+    ".ad-banner",
+    ".ga_tracking",
+    "IFRAME[data-carousel-id]"
+  ]
+}

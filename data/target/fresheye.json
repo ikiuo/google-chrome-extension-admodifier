@@ -1,0 +1,9 @@
+{
+  "domain": ["fresheye.com"],
+  "query": [
+    "[id^=ad_box_]",
+    "[id^=float-bnr-]",
+    "[id^=yoneads]",
+    "[class^=c-ad_]"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "domain": [
+    "affiliate.rakuten.co.jp",
+    "afl.rakuten.co.jp"
+  ],
+  "query": [
+	".adRakuten",
+	".rakutenAff"
+  ]
+}

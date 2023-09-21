@@ -1,0 +1,6 @@
+{
+  "host": ["smart-flash.jp"],
+  "tagid": [
+    "\\d{4}_\\d{4}"
+  ]
+}
