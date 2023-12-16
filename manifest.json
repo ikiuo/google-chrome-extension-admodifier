@@ -22,8 +22,6 @@
   "web_accessible_resources": [{
     "matches": ["<all_urls>"],
     "resources": [
-      "adtagfix_domain.js",
-      "adtagfix_table.js",
       "content-script.js",
       "utility.js"
     ]

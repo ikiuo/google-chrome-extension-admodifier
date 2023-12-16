@@ -2,6 +2,7 @@
   "domain": ["ameba.jp", "ameblo.jp"],
   "query": [
 	".ad-btf",
+    "[aria-hidden=\"true\"]",
 	"[class^=skin-entryAd]",
 	"[class^=subAdBanner]",
 	"[class*=_Article_Ad_]",
