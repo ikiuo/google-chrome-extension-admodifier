@@ -1,6 +1,7 @@
 {
   "host": ["nikkei.com"],
   "query": [
-    ".dcmads"
+    ".dcmads",
+    "[class^=adFor]"
   ]
 }

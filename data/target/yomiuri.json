@@ -1,6 +1,7 @@
 {
   "host": ["yomiuri.co.jp"],
   "query": [
-    "[class*=p-ad-]"
+    ".home-ad-wide-top",
+    ".home-ad-bnr-side"
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "domain": ["tenki.jp"],
   "host": ["tenki.jp"],
   "query": [
     "[id^=\"tenki-ad-\"]",

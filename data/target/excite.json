@@ -1,6 +1,8 @@
 {
   "host": ["excite.co.jp"],
   "query": [
+    ".ec-ranking",
+    ".media-shopping",
     "[id^=browsi_ad]",
     "[id^=exad_]",
     "[id^=gpt_pc_]",

@@ -1,6 +1,7 @@
 {
   "host": ["chugoku-np.co.jp"],
   "query": [
-    ".m-ad"
+    ".m-ad",
+    ".m-pr-block"
   ]
 }

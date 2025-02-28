@@ -1,7 +1,8 @@
 {
   "host": ["asahi.com"],
   "query": [
-	".AdMod",
-    ".OutbrainAdMod"
+    ".AdMod",
+    ".OutbrainAdMod",
+    "#HometopAdOuter"
   ]
 }

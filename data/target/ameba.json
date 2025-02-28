@@ -1,11 +1,12 @@
 {
-  "domain": ["ameba.jp", "ameblo.jp"],
+  "domain": ["ameba.jp"],
+  "hidden": true,
   "query": [
-	".ad-btf",
-    "[aria-hidden=\"true\"]",
-	"[class^=skin-entryAd]",
-	"[class^=subAdBanner]",
-	"[class*=_Article_Ad_]",
+    ".ad-btf",
+    "[class^=skin-entryAd]",
+    "[class^=subAdBanner]",
+    "[class^=subAdBannerArea]",
+    "[class*=_Article_Ad_]",
     "[data-slot=\"injected\"]"
   ]
 }

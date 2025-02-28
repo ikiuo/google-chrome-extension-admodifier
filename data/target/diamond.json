@@ -1,6 +1,7 @@
 {
   "host": ["diamond.jp"],
   "query": [
-    ".gpt-ad"
+    ".gpt-ad",
+    ".g-click-ad"
   ]
 }

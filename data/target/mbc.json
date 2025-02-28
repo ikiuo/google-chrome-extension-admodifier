@@ -1,6 +1,7 @@
 {
   "host": ["mbc.co.jp"],
   "query": [
+    ".sponsor-bnr",
     "[id^=JP_mbc_pc_]",
     "[data-ub-carousel]"
   ]

@@ -1,0 +1,11 @@
+{
+  "domain": ["ameblo.jp"],
+  "hidden": true,
+  "query": [
+    "[class^=subAdBanner]",
+    "[class^=subAdBannerArea]",
+    "[id^=sideTopBanner]",
+    "[id^=sideMiddleBanner]",
+    "[id^=sideBottomBanner]"
+  ]
+}

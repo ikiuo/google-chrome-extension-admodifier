@@ -1,6 +1,7 @@
 {
   "host": ["fbc.jp"],
   "query": [
-    ".iframe-ads"
+    ".iframe-ads",
+    ".top-banner"
   ]
 }

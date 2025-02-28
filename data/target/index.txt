@@ -2,6 +2,7 @@
 aab-tv.json
 agara.json
 ameba.json
+ameblo.json
 asahi-np.json
 ascii.json
 at-s.json
@@ -38,6 +39,7 @@ mbc.json
 minpo.json
 msn.json
 nagasaki-np.json
+newsweekjapan.json
 nicovideo.json
 nifty.json
 nifty-game.json

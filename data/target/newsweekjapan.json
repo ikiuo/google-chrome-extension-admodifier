@@ -1,0 +1,7 @@
+{
+  "host": ["newsweekjapan.jp"],
+  "query": [
+    ".ad-teads-nw-box",
+    "#side-kakakucom"
+  ]
+}

@@ -2,6 +2,7 @@
   "host": ["373news.com"],
   "query": [
 	"[id^=pc_]",
-    "[id^=JP_MS_pc_]"
+    "[id^=JP_MS_pc_]",
+    "[id^=div-ub-gpt-ad-]"
   ]
 }

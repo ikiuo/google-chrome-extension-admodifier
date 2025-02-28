@@ -4,6 +4,7 @@
     "logly-lift-\\d+"
   ],
   "query": [
-	".ad"
+    ".ad",
+    ".header__ad"
   ]
 }

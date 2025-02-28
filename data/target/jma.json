@@ -1,9 +1,6 @@
 {
   "domain": ["jma.go.jp"],
   "query": [
-    "#ad-pc",
-    "#ad-pc_Area",
-    "#ad-pc_Section",
-    "#ad-pc_Texts"
+    ".ad-pc"
   ]
 }

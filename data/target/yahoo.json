@@ -5,6 +5,7 @@
   "query": [
     ".adWrap",
     ".ad-frame-fix",
-    "[id^=\"ssp_ydn_\"]"
+    "[id^=\"ssp_ydn_\"]",
+    "[id^=\"yads_\"]"
   ]
 }

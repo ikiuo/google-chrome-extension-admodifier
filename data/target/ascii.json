@@ -1,6 +1,7 @@
 {
   "host": ["ascii.jp"],
   "query": [
+    ".adrect",
     "[class^=ad_]"
   ]
 }

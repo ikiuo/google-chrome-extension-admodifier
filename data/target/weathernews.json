@@ -1,6 +1,8 @@
 {
   "host": ["weathernews.jp"],
+  "hidden": true,
   "query": [
-	"[id^=browsi_adWrapper_]"
+    "[id^=browsi_adWrapper_]",
+    "[id=sticky_pc]"
   ]
 }

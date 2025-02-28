@@ -1,6 +1,7 @@
 {
   "host": ["mainichi.jp"],
   "query": [
+    ".bnrlink",
     "[id^=ad-pc-]"
   ]
 }

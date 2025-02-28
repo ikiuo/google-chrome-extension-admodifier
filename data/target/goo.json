@@ -1,6 +1,7 @@
 {
   "domain": ["goo.ne.jp"],
   "query": [
-	"[id^=gooad-]"
+    ".sidebar_bnr",
+    "[id^=gooad-]"
   ]
 }

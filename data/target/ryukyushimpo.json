@@ -1,6 +1,8 @@
 {
   "host": ["ryukyushimpo.jp"],
   "query": [
+    "#gpt-jp-rku-pc-article-billborad",
+    "#gpt-pc-all-right-1st",
     "[id^=pc_]",
     "[id^=jp_rku_pc_]"
   ]
